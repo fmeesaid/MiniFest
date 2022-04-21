@@ -1,0 +1,71 @@
+body {
+    background-image: url(images/5309014.jpg);
+    background-size: cover;
+}
+
+.a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.b{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.seksyen1{
+    background-color: #2b39588a;
+    padding: 1% 15% 7%;
+    color: white;
+    
+}
+
+.banner{
+    text-align: center;
+}
+
+
+.seksyen2{
+    background-color: #bca07d75;
+    padding: 5% 15% 5%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.icon{
+    color: #869cff;
+}
+
+.feature-box{
+   padding: 3%;
+}
+
+.seksyen3{
+    background-color: #2b39588a;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+.seksyen4{
+    background-color: #bca07d75;
+    padding: 5%;
+    text-align: center;
+    color: white;
+}
+
+.seksyen5{
+    background-color: #2b39588a;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+    
+}
+
+.footer{
+    padding: 2%;
+    text-align: center;
+    color: white;
+}
+
+.media{
+    color: white;
+}
